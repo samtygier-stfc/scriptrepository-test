@@ -6,4 +6,4 @@
 # SPDX - License - Identifier: GPL - 3.0 +
 from mantid.api import *
 
-print("hello world")
+print("Hello World")
