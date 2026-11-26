@@ -8,7 +8,7 @@ on:
 
 jobs:
   indexing:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
     steps:
       - name: Checkout code
         uses: actions/checkout@v7
