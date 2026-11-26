@@ -99,6 +99,12 @@
     "directory": false,
     "pub_date": "2026-Jul-23 11:20:57"
   },
+  "SamScript.py": {
+    "author": "Sam Tygier",
+    "description": "Mantid Repository : https://github.com/mantidproject/mantid\n\n\nCopyright &copy; 2018 ISIS Rutherford Appleton Laboratory UKRI,\n\n    NScD Oak Ridge National Laboratory, European Spallation Source\n\n    & Institut Laue - Langevin\n\nSPDX - License - Identifier: GPL - 3.0 +\n\n",
+    "directory": false,
+    "pub_date": "2026-Nov-26 11:09:32"
+  },
   "SingleCrystal": {
     "description": "",
     "directory": true,
