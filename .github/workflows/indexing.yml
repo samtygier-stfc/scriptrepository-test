@@ -16,11 +16,6 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.INDEXING }}
 
-      - name: Setup Python
-        uses: actions/setup-python@v7
-        with:
-          python-version: '3.x'
-          
       - name: Create repository index file
         run: |
           python system/scriptrepositoryparser.py $PWD/ $PWD/
